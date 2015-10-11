@@ -1,0 +1,14 @@
+	[
+	  {
+	    "remote":      "github",
+	    "repository":  "InfinitiveOS-Devices/android_kernel_lge_v500",
+	    "target_path": "kernel/lge/hammerhead",
+	    "revision":    "io-1.0"
+	  },
+	   {
+	    "remote":      "github",
+	    "repository":  "InfinitiveOS-Devices/proprietary_vendor_lge",
+	    "target_path": "vendor/lge",
+	    "revision":    "io-1.0"
+	  }
+	]

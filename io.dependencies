@@ -2,7 +2,7 @@
 	  {
 	    "remote":      "github",
 	    "repository":  "InfinitiveOS-Devices/android_kernel_lge_v500",
-	    "target_path": "kernel/lge/hammerhead",
+	    "target_path": "kernel/lge/v500",
 	    "revision":    "io-1.0"
 	  },
 	   {

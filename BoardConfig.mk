@@ -143,3 +143,6 @@ BOARD_HARDWARE_CLASS := device/lge/v500/cmhw/
 
 TARGET_USES_LOGD := false
 BOARD_USES_LEGACY_MMAP := true
+
+# Including Omni TWRP
+TW_THEME=portrait_mdpi
